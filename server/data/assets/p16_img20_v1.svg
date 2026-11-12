@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="55%" stop-color="#0f766e"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="900" fill="url(#bg)"/>
+  <circle cx="720" cy="180" r="280" fill="url(#glow)"/>
+  <circle cx="140" cy="780" r="240" fill="#ffffff" opacity="0.06"/>
+  <text x="64" y="88" fill="#a7f3d0" font-size="24" font-family="sans-serif" letter-spacing="2">模拟生成 · 主图方案 v1</text>
+  <text x="64" y="132" fill="#e2e8f0" opacity="0.85" font-size="26" font-family="sans-serif">M3 测试防晒衣-171556</text>
+  <text x="64" y="206" fill="#ffffff" opacity="0.7" font-size="22" font-family="sans-serif" letter-spacing="2">方向二：参数对比硬核</text>
+  <text x="64" y="330" font-size="76" fill="#ffffff" font-family="sans-serif" font-weight="bold">同样¥149-159，为什</text>
+  <text x="64" y="422" font-size="76" fill="#ffffff" font-family="sans-serif" font-weight="bold">么要选M3 测试防晒衣-…</text>
+  <rect x="64" y="500" width="760" height="128" rx="16" fill="#ffffff" opacity="0.12"/>
+  <text x="88" y="540" fill="#a7f3d0" font-size="18" font-family="sans-serif" letter-spacing="1">核心卖点</text>
+  <text x="88" y="582" font-size="24" fill="#ffffff" font-family="sans-serif" >多规格覆盖更完整（提供 2 个 SKU，价格</text>
+  <text x="88" y="614" font-size="24" fill="#ffffff" font-family="sans-serif" >覆盖 ¥149-159）</text>
+  <rect x="64" y="660" width="760" height="96" rx="14" fill="#0b1220" opacity="0.32"/>
+  <text x="88" y="696" fill="#94a3b8" font-size="17" font-family="sans-serif">构图说明</text>
+  <text x="88" y="726" font-size="18" fill="#cbd5e1" font-family="sans-serif" >左右分屏对比：左侧本品展示核心参数、实测数据与到手价</text>
+  <text x="88" y="750" font-size="18" fill="#cbd5e1" font-family="sans-serif" >，右侧列出竞品常见参数，中间用对勾与叉号强化差异，底</text>
+  <text x="88" y="774" font-size="18" fill="#cbd5e1" font-family="sans-serif" >部保留检测报告或实测截图。</text>
+  <text x="64" y="806" fill="#a7f3d0" font-size="17" font-family="sans-serif">视觉提示 · 红蓝对比配色，参数表格化；只保留 3 组最关键差异，避免信息</text>
+  <text x="64" y="838" fill="#94a3b8" font-size="15" font-family="sans-serif">方案 #2 · M3 测试防晒衣-171556 · AI 模拟生成，仅供方案评审</text>
+</svg>

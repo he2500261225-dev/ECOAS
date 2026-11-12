@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="540" viewBox="0 0 960 540">
+  <defs>
+    <linearGradient id="vbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1220"/>
+      <stop offset="60%" stop-color="#1e1b4b"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+    <radialGradient id="vglow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#a78bfa" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#a78bfa" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="960" height="540" fill="url(#vbg)"/>
+  <circle cx="760" cy="140" r="180" fill="url(#vglow)">
+    <animate attributeName="r" values="160;200;160" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="200" cy="440" r="120" fill="#22d3ee" opacity="0.12">
+    <animate attributeName="opacity" values="0.06;0.2;0.06" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <rect x="0" y="0" width="960" height="6" fill="#22d3ee" opacity="0.7">
+    <animate attributeName="width" values="0;960" dur="8s" repeatCount="indefinite"/>
+  </rect>
+  <text x="56" y="72" fill="#c4b5fd" font-size="20" font-family="sans-serif" letter-spacing="2">模拟视频预览 · 动效分镜 v1</text>
+  <text x="56" y="112" fill="#e2e8f0" opacity="0.82" font-size="22" font-family="sans-serif">M3 测试防晒衣-2ca6e9 · 脚本一：痛点开场</text>
+  <text x="56" y="196" fill="#94a3b8" font-size="17" font-family="sans-serif" letter-spacing="1">前 3 秒钩子</text>
+  <text x="56" y="258" font-size="42" fill="#ffffff" font-family="sans-serif" font-weight="bold">通勤骑行时，你是不是也遇到：主图与详</text>
+  <text x="56" y="314" font-size="42" fill="#ffffff" font-family="sans-serif" font-weight="bold">情页缺少量化实测证据（检测报告/对…</text>
+  <rect x="56" y="372" width="848" height="72" rx="14" fill="#0b1220" opacity="0.4"/>
+  <text x="80" y="404" fill="#7dd3fc" font-size="17" font-family="sans-serif" letter-spacing="1">结尾促单</text>
+  <text x="80" y="430" fill="#e2e8f0" font-size="20" font-family="sans-serif">当前价格具备竞争力，建议维持主价，通过组合装…，点击购物车立即下单</text>
+  <text x="56" y="492" fill="#94a3b8" font-size="15" font-family="sans-serif">分镜 4 个 · 总时长约 18s · 脚本 JSON / Markdown 可在任务详情下载</text>
+  <text x="904" y="492" fill="#c4b5fd" font-size="15" font-family="sans-serif" text-anchor="end">AI 模拟生成，仅供方案评审</text>
+</svg>

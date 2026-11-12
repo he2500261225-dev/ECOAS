@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900">
+  <defs>
+    <linearGradient id="sbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0b1f3a"/>
+      <stop offset="55%" stop-color="#1d4ed8"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="900" fill="url(#sbg)"/>
+  <circle cx="720" cy="180" r="300" fill="#ffffff" opacity="0.08"/>
+  <circle cx="150" cy="780" r="240" fill="#ffffff" opacity="0.06"/>
+  <rect x="64" y="64" width="300" height="44" rx="22" fill="#ffffff" opacity="0.16"/>
+  <text x="88" y="94" fill="#bae6fd" font-size="19" font-family="sans-serif" letter-spacing="2">模拟生成 · 获客素材方案 v1</text>
+  <text x="64" y="156" fill="#ffffff" opacity="0.86" font-size="26" font-family="sans-serif">洁净洗衣 · 上门取送</text>
+  <text x="64" y="214" fill="#bae6fd" font-size="20" font-family="sans-serif" letter-spacing="2">洗衣服务 · 衣物洗护 / 上门取送</text>
+  <text x="64" y="286" fill="#ffffff" opacity="0.72" font-size="22" font-family="sans-serif">获客方向一：信任背书</text>
+  <text x="64" y="392" font-size="74" fill="#ffffff" font-family="sans-serif" font-weight="bold">满 ¥99 上门取送，按面</text>
+  <text x="64" y="480" font-size="74" fill="#ffffff" font-family="sans-serif" font-weight="bold">料标识洗护</text>
+  <rect x="64" y="548" width="760" height="118" rx="16" fill="#ffffff" opacity="0.13"/>
+  <text x="88" y="586" fill="#bae6fd" font-size="18" font-family="sans-serif" letter-spacing="1">信任点 / 核心卖点</text>
+  <text x="88" y="628" font-size="23" fill="#ffffff" font-family="sans-serif" >满 ¥99 上门取送免运费；按面料标识洗护；</text>
+  <text x="88" y="658" font-size="23" fill="#ffffff" font-family="sans-serif" >异常件先沟通</text>
+  <rect x="64" y="686" width="760" height="92" rx="14" fill="#03131f" opacity="0.34"/>
+  <text x="88" y="720" fill="#cbd5e1" font-size="17" font-family="sans-serif">服务场景与构图</text>
+  <text x="88" y="750" font-size="17" fill="#e2e8f0" font-family="sans-serif" >换季羽绒服实景构图，人物自然入镜；画面左侧突出「满 </text>
+  <text x="88" y="773" font-size="17" fill="#e2e8f0" font-family="sans-serif" >¥99 上门取送免运费」与「按面料标识洗护」，右侧放</text>
+  <text x="88" y="796" font-size="17" fill="#e2e8f0" font-family="sans-serif" >套餐价目卡「洗鞋 ¥29 / 双」，底部留预约入口。</text>
+  <text x="64" y="834" fill="#bae6fd" font-size="16" font-family="sans-serif">模拟生成，仅供方案评审 · 洁净洗衣 · 上门取送 · 获客素材 #1</text>
+</svg>

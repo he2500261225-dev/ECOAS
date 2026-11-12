@@ -1,0 +1,10 @@
+server/.venv/
+server/__pycache__/
+server/app/__pycache__/
+server/tests/__pycache__/
+server/.pytest_cache/
+server/data/*.db
+web/node_modules/
+web/dist/
+.DS_Store
+*.log

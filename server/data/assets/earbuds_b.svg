@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1e1b4b"/>
+      <stop offset="100%" stop-color="#6d28d9"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="900" fill="url(#g)"/>
+  <circle cx="700" cy="200" r="260" fill="#ffffff" opacity="0.10"/>
+  <circle cx="180" cy="760" r="220" fill="#ffffff" opacity="0.08"/>
+  <text x="70" y="120" fill="#ffffff" opacity="0.85" font-size="30" font-family="sans-serif">主图方案 B</text>
+  <text x="70" y="560" fill="#ffffff" font-size="64" font-weight="bold" font-family="sans-serif">地铁里的私人音乐厅</text>
+  <text x="70" y="630" fill="#ffffff" opacity="0.88" font-size="34" font-family="sans-serif">自适应降噪 · 通透模式</text>
+  <rect x="70" y="700" width="360" height="84" rx="42" fill="#ffffff"/>
+  <text x="250" y="754" fill="#1e1b4b" font-size="32" font-weight="bold" text-anchor="middle" font-family="sans-serif">立即抢购</text>
+</svg>
